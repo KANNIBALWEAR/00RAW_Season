@@ -6,6 +6,7 @@
 - Kannibal flagship stealth patch with RFID
 - Hitech Crime patch minimal b&w
 - Autonomous LED light patches ?!!!
+- DIY Platform for people to make their own designs.
 
 
 
