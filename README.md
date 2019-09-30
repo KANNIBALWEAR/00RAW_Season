@@ -10,6 +10,7 @@
 - Hitech Crime patch minimal b&w
 - Autonomous LED light patches ?!!!
 - DIY Platform for people to make their own designs.
+- Velcor Chest Patch (Military Style) - swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 ## Patch Series [ZEROSUM ELEMENTS]
 
