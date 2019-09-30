@@ -17,6 +17,8 @@
 - HITECH CRIME RAW00_BW-HC (slim bw) Basic Hitech Crime Patches 76x50mm (?), white sewn on black, velcro on the back.
 - HITECH CRIME RAW00_RW-HC (slim red bg) Basic Hitech Crime Patches 76x50mm (?), white on red, velcro on the back.
 - KANNIBAL RAW00_BW-K
+- HELVE AVR PATCH
+- HELVE/HITECH/KANNIBAL TRYPTIC PATCH (vertical patch)
 
 
 
