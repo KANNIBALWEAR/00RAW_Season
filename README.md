@@ -8,7 +8,7 @@
 - Autonomous LED light patches ?!!!
 - DIY Platform for people to make their own designs.
 
-## Patch Series
+## Patch Series [ZEROSUM ELEMENTS]
 
 - HITECH CRIME RAW00_BW-HC (slim bw)
 - HITECH CRIME RAW00_RW-HC (slim red bg)
