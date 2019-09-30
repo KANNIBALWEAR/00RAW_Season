@@ -22,6 +22,7 @@
 - 05 HELVE AVR PATCH 76x50mm logo only
 - 06 HELVE AVR PATCH 76x50mm with "AVR" subtitle
 - 07 HELVE/HITECH/KANNIBAL TRYPTIC PATCH (vertical patch) 76x50mm
+- 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
 
 
 
