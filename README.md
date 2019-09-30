@@ -14,7 +14,7 @@
 
 ## Patch Series [ZEROSUM ELEMENTS]
 
-**First Test Set**
+**First Test Set** (Design Required)
 - 01 HITECH CRIME RAW00_BW-HC (slim bw) 76x50mm Basic Hitech Crime Patches (?), white sewn on black, velcro on the back.
 - 02 HITECH CRIME RAW00_RW-HC (slim red bg) 76x50mm Basic Hitech Crime Patches (?), white on red, velcro on the back.
 - 03 KANNIBAL RAW00_BW-K (logo solo)
