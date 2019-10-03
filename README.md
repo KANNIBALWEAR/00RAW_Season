@@ -19,7 +19,7 @@
 **First Test Set** (Design Required)
 - [ ] 01 HITECH CRIME RAW00_BW-HC
   
-  ``` Basic Hitech Crime Patche / slim 76x50mm / white sewn on black / velcro back  ```
+  ``` Basic Hitech Crime Patche / slim 76x50/25mm / white sewn on black / velcro back  ```
   
 - [ ] 02 HITECH CRIME RAW00_RW-HC
 
@@ -48,6 +48,12 @@
 - [ ] 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
 
   ``` type name / size, mm / color pattern / velcro back ```
+  
+- [ ] 09 CBD REGIME 76mm x  25mm 
+
+``` type name / size, mm / color pattern / velcro back ```
+
+- [ ] 10 TACTICAL DROP SQUAD
 
 
 
