@@ -26,8 +26,17 @@
   ``` Basic Hitech Crime Patch / slim 76x50mm / white on blood red / velcro back ```
   
 - [ ] 03 KANNIBAL RAW00_BW-K (logo solo)
+
+  ``` type name / size, mm / color pattern / velcro back ```
+
 - [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm
+
+  ``` type name / size, mm / color pattern / velcro back ```
+
 - [ ] 05 HELVE AVR PATCH 76x50mm logo only
+
+  ``` type name / size, mm / color pattern / velcro back ```
+  
 - [ ] 06 HELVE AVR PATCH 76x50mm with "AVR" subtitle
 - [ ] 07 HELVE/HITECH/KANNIBAL TRYPTIC PATCH (vertical patch) 76x50mm
 - [ ] 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
