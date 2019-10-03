@@ -47,6 +47,8 @@
   
 - [ ] 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
 
+  ``` type name / size, mm / color pattern / velcro back ```
+
 
 
 
