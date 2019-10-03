@@ -13,6 +13,7 @@
 - Autonomous LED light patches ?!!!
 - DIY Platform for people to make their own designs.
 - Velcro Chest Patch (Military Style) - swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
+- Stencils?
 
 ## Patch Series [ZEROSUM ELEMENTS]
 
