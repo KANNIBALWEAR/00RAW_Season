@@ -42,6 +42,9 @@
   ``` type name / size, mm / color pattern / velcro back ```
   
 - [ ] 07 HELVE/HITECH/KANNIBAL TRYPTIC PATCH (vertical patch) 76x50mm
+
+  ``` type name / size, mm / color pattern / velcro back ```
+  
 - [ ] 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
 
 
