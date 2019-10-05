@@ -1,5 +1,7 @@
 [Season Cover]
 
+[00RAW]
+
 # RAW - KANNIBAL WEAR SEASON
 - Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
 
