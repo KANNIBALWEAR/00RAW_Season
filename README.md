@@ -58,7 +58,7 @@
 
 ``` type name / size, mm / color pattern / velcro back ```
 
-- [ ] **10 TACTICAL DROP SQUAD**  [CBD Series]
+- [ ] **10 TACTICAL DROP SQUAD**  [CBD Series] < active test
 
 
 
