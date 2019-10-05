@@ -23,7 +23,6 @@
 
 **First Test Set** (Design Required)
 - [ ] **01 HITECH CRIME RAW00_BW-HC**
-  
   ``` Basic Hitech Crime Patche / slim 76x50/25mm / white sewn on black / velcro back  ```
   
 - [ ] 02 HITECH CRIME RAW00_RW-HC
