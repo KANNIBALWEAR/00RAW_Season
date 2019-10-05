@@ -20,7 +20,7 @@
 ## Patch Series [ZEROSUM ELEMENTS]
 
 **First Test Set** (Design Required)
-- [ ] 01 HITECH CRIME RAW00_BW-HC
+- [ ] **01 HITECH CRIME RAW00_BW-HC**
   
   ``` Basic Hitech Crime Patche / slim 76x50/25mm / white sewn on black / velcro back  ```
   
@@ -28,11 +28,11 @@
 
   ``` Basic Hitech Crime Patch / slim 76x50mm / white on blood red / velcro back ```
   
-- [ ] 03 KANNIBAL RAW00_BW-K (logo solo)
+- [ ] **03 KANNIBAL RAW00_BW-K (logo solo)**
 
   ``` type name / size, mm / color pattern / velcro back ```
 
-- [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm
+- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm**
 
   ``` type name / size, mm / color pattern / velcro back ```
 
@@ -48,15 +48,15 @@
 
   ``` type name / size, mm / color pattern / velcro back ```
   
-- [ ] 08 HITECH CRIME b&w 45mm x  45mm (back of the cap)
+- [ ] **08 HITECH CRIME b&w 45mm x  45mm (back of the cap)**
 
   ``` type name / size, mm / color pattern / velcro back ```
   
-- [ ] 09 CBD REGIME 76mm x  25mm 
+- [ ] **09 CBD REGIME [CBD Series] 76mm x  25mm**
 
 ``` type name / size, mm / color pattern / velcro back ```
 
-- [ ] 10 TACTICAL DROP SQUAD
+- [ ] **10 TACTICAL DROP SQUAD**  [CBD Series]
 
 
 
