@@ -54,7 +54,7 @@
 
   ``` type name / size, mm / color pattern / velcro back ```
   
-- [ ] **09 CBD REGIME [CBD Series] 76mm x  25mm**
+- [ ] **09 CBD REGIME [CBD Series] 76mm x  25mm** < active test
 
 ``` type name / size, mm / color pattern / velcro back ```
 
