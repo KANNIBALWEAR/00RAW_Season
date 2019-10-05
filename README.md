@@ -34,7 +34,7 @@
 
   ``` type name / size, mm / color pattern / velcro back ```
 
-- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm**
+- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm** < active test
 
   ``` type name / size, mm / color pattern / velcro back ```
 
