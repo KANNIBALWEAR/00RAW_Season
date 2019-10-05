@@ -50,7 +50,7 @@
 
   ``` type name / size, mm / color pattern / velcro back ```
   
-- [ ] **08 HITECH CRIME b&w 45mm x  45mm (back of the cap)**
+- [ ] **08 HITECH CRIME b&w 45mm x  45mm (back of the cap)** < active test
 
   ``` type name / size, mm / color pattern / velcro back ```
   
