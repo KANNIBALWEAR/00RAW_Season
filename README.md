@@ -30,7 +30,7 @@
 
   ``` Basic Hitech Crime Patch / slim 76x50mm / white on blood red / velcro back ```
   
-- [ ] **03 KANNIBAL RAW00_BW-K (logo solo)**
+- [ ] **03 KANNIBAL RAW00_BW-K (logo solo)** < active test
 
   ``` type name / size, mm / color pattern / velcro back ```
 
