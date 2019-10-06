@@ -21,7 +21,6 @@
   
 - basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
-
 ## Patch Series [ZEROSUM ELEMENTS]
 
 **First Test Set** (Design Required)
