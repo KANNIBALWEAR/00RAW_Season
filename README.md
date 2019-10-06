@@ -22,7 +22,7 @@
 ## Patch Series [ZEROSUM ELEMENTS]
 
 **First Test Set** (Design Required)
-- [ ] **01 HITECH CRIME RAW00_BW-HC** < active test
+- [ ] **01 HITECH CRIME RAW00_BW-HC** < active test DESIGNED
   
   ``` Basic Hitech Crime Patche / slim 76x50/25mm / white sewn on black / velcro back  ```
   
