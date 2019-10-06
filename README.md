@@ -6,12 +6,6 @@
 
 /// (1st Season) Time Destination: 2020
 
-- Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
-
-  Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
-  
-- basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
-
 **Projects to consider for starters:**
 - Kannibal flagship stealth patch with RFID
 - Hitech Crime patch minimal b&w
@@ -21,6 +15,12 @@
 - Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 - add as a product: 9012-HUG tagname: Hugger / The sweetest of our products in terms of pure intentions factor. Slide-on Patch Platform to tuck in whereever you need them (Elastic Platform with Velcro connection on it, synthetically spring-loaded)
 - Stencils?
+- Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
+
+  Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
+  
+- basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
+
 
 ## Patch Series [ZEROSUM ELEMENTS]
 
