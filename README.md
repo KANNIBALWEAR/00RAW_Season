@@ -24,17 +24,17 @@
 **First Test Set** (Design Required)
 - [ ] **01 HITECH CRIME RAW00_BW-HC** < active test DESIGNED
   
-  ``` Basic Hitech Crime Patche / slim 76x50/25mm / white sewn on black / velcro back  ```
+  ``` Basic Hitech Crime Patche / slim 76x25mm / white sewn on black / velcro back  ```
   
 - [ ] 02 HITECH CRIME RAW00_RW-HC
 
-  ``` Basic Hitech Crime Patch / slim 76x50mm / white on blood red / velcro back ```
+  ``` Basic Hitech Crime Patch / slim 76x25mm / white on blood red / velcro back ```
   
 - [ ] **03 KANNIBAL RAW00_BW-K (logo solo)** < active test DESIGNED
 
-  ``` type name / size, mm / color pattern / velcro back ```
+  ``` type name / slim 76x25mm / color pattern / velcro back ```
 
-- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm** < active test
+- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x25mm** < active test DESIGNED
 
   ``` type name / size, mm / color pattern / velcro back ```
 
