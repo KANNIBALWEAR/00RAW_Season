@@ -1,8 +1,6 @@
 [Season Cover]
 
-[00RAW]
-
-# RAW - KANNIBAL SEASON 
+# RAW - KANNIBAL SEASON [00RAW]
 
 /// (1st Season) Time Destination: 2020
 
