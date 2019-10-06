@@ -2,7 +2,10 @@
 
 [00RAW]
 
-# RAW - KANNIBAL SEASON (1st Season) Time Destination: 2020
+# RAW - KANNIBAL SEASON 
+
+/// (1st Season) Time Destination: 2020
+
 - Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
 
   Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
