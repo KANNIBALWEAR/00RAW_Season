@@ -2,7 +2,7 @@
 
 # RAW - KANNIBAL SEASON [00RAW]
 
-/// (1st Season) Time Destination: 2020
+**/// (1st Season) Time Destination: 2020**
 
 **Projects to consider for starters:**
 - Kannibal flagship stealth patch with RFID
