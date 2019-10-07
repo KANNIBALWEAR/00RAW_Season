@@ -19,7 +19,7 @@
   
 - basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
-![](Screenshot_2019-10-07_at_18.27.56.png)
+![](distribution-idea.png)
 
 ## Patch Series [ZEROSUM ELEMENTS]
 
