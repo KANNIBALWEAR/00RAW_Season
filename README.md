@@ -25,7 +25,7 @@
 ## Patch Series [ZEROSUM ELEMENTS]
 
 **First Test Set** (Design Required)
-- [ ] **01 HITECH CRIME RAW00_BW-HC** < active test DESIGNED
+- [ ] **01 HITECH CRIME RAW00_BW-HC**
 
 ![](1.png)
   
@@ -34,19 +34,19 @@
 
 ``` Basic Hitech Crime Patch / slim 76x25mm / white on blood red / velcro back ```
   
-- [ ] **03 KANNIBAL RAW00_BW-K** < active test DESIGNED
+- [ ] **03 KANNIBAL RAW00_BW-K**
 
 ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
   
 ![](3.png)
 
-- [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x25mm** < active test DESIGNED
+- [ ] **04 KANNIBAL RAW00_BW-KCO (logo cut out)
 
 ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
   
 ![](4.png)
   
-- [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm < active test
+- [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out 76x50mm)
 
 ``` Basic Kannibal Patch / wide 76x50mm / white sewn on black / velcro back ```
 
@@ -64,7 +64,7 @@
   
 - [ ] **08 HITECH CRIME b&w 45mm x  45mm (back of the cap)** < active test
 
-``` type name / size, mm / color pattern / velcro back ```
+``` Square Hitech Crime Patch / square 45mmx45mm / white on black / velcro back ```
   
 ![](2.png)
   
