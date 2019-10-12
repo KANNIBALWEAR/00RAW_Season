@@ -32,17 +32,17 @@
 
   ``` Basic Hitech Crime Patch / slim 76x25mm / white on blood red / velcro back ```
   
-- [ ] **03 KANNIBAL RAW00_BW-K (logo solo)** < active test DESIGNED
+- [ ] **03 KANNIBAL RAW00_BW-K** < active test DESIGNED
 
-  ``` type name / slim 76x25mm / color pattern / velcro back ```
+  ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
 
 - [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x25mm** < active test DESIGNED
 
-  ``` type name / slim 76x25mm / color pattern / velcro back ```
+  ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
   
-  - [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm** < active test
+  - [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm < active test
 
-  ``` type name / wide 76x50mm / color pattern / velcro back ```
+  ``` Basic Kannibal Patch / wide 76x50mm / white sewn on black / velcro back ```
 
 - [ ] 05 HELVE AVR PATCH 76x50mm logo only
 
