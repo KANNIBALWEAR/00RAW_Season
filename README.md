@@ -26,6 +26,8 @@
 
 **First Test Set** (Design Required)
 - [ ] **01 HITECH CRIME RAW00_BW-HC** < active test DESIGNED
+
+![](1.png)
   
   ``` Basic Hitech Crime Patche / slim 76x25mm / white sewn on black / velcro back  ```
 - [ ] 02 HITECH CRIME RAW00_RW-HC
@@ -35,10 +37,14 @@
 - [ ] **03 KANNIBAL RAW00_BW-K** < active test DESIGNED
 
   ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
+  
+  ![](3.png)
 
 - [ ] **04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x25mm** < active test DESIGNED
 
   ``` Basic Kannibal Patch / slim 76x25mm / white sewn on black / velcro back ```
+  
+  ![](4.png)
   
   - [ ] 04 KANNIBAL RAW00_BW-CO (logo cut out - cropped to fill more of the patch 76x50mm < active test
 
@@ -59,6 +65,8 @@
 - [ ] **08 HITECH CRIME b&w 45mm x  45mm (back of the cap)** < active test
 
   ``` type name / size, mm / color pattern / velcro back ```
+  
+  ![](2.png)
   
 - [ ] **09 CBD REGIME [CBD Series] 76mm x  25mm** < active test
 
