@@ -6,9 +6,7 @@
 
 "KANNIBAL_RAW_SEASON"
 
-"What are they doing?"
-"It's the raw season."
-"Oh yeah."
+
 
 
 **Projects to consider for starters:**
