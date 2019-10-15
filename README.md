@@ -6,12 +6,17 @@
 
 "KANNIBAL_RAW_SEASON"
 
-**Projects to consider for starters:**
-- Kannibal flagship stealth patch with RFID
+## Projects to consider for starters:**
+
+### ZEROSUM ELEMENTS
+
+x Patch Series 
+
+### Kannibal flagship stealth patch with RFID
 
 x valid sequence?
 
-- Hitech Crime patch minimal b&w
+### Hitech Crime patch minimal b&w
 
 x valid sequence?
 
