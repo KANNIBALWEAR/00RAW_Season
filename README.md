@@ -6,6 +6,8 @@
 
 "KANNIBAL_RAW_SEASON"
 
+"It's the raw season."
+
 **Projects to consider for starters:**
 - Kannibal flagship stealth patch with RFID
 - Hitech Crime patch minimal b&w
