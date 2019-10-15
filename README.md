@@ -8,6 +8,7 @@
 
 **Projects to consider for starters:**
 - Kannibal flagship stealth patch with RFID
+
 - Hitech Crime patch minimal b&w
 - Autonomous LED light patches (babel_infocalypse)
 - DIY Platform for people to make their own designs.
