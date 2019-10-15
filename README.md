@@ -48,7 +48,7 @@ x valid sequence?
 
 x valid sequence?
 
-- **Rubber Velcro Patches!** want at least one to just try how it feels. if not full rubber then consider glued rubber cutouts.
+### **Rubber Velcro Patches!** want at least one to just try how it feels. if not full rubber then consider glued rubber cutouts.
 
 x valid sequence?
 
