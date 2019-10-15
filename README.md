@@ -41,7 +41,7 @@ x valid sequence?
 
 - **Rubber Velcro Patches!** want at least one to just try how it feels. if not full rubber then consider glued rubber cutouts.
 
-x
+x valid sequence?
 
 - Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
   ```
