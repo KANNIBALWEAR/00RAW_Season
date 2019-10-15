@@ -55,6 +55,8 @@ x
 
 - Distribution Idea - "Velcro Card" with additional info
 
+x
+
 ![](distribution-idea.png)
 
 ## [ZEROSUM ELEMENTS] Patch Series 
