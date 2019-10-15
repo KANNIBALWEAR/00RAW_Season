@@ -13,11 +13,11 @@ x valid sequence?
 
 - Hitech Crime patch minimal b&w
 
-x
+x valid sequence?
 
 - Autonomous LED light patches (babel_infocalypse)
 
-x
+x valid sequence?
 
 - DIY Platform for people to make their own designs.
 
