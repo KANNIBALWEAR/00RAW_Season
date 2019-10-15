@@ -24,7 +24,7 @@ x valid sequence?
 
 x valid sequence?
 
-- DIY Platform for people to make their own designs.
+### DIY Platform for people to make their own designs.
 
 x valid sequence?
 
