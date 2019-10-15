@@ -21,6 +21,8 @@ x
 
 - DIY Platform for people to make their own designs.
 
+x
+
 - Velcro Chest Patch (Military Style) - swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 - Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
