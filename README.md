@@ -56,9 +56,9 @@ x valid sequence?
   ```
   Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
    ```
-### valid sequence?
+x valid sequence?
    
-- basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
+### basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
 x valid sequence?
 
