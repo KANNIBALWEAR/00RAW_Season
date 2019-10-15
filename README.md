@@ -81,5 +81,13 @@
 - [ ] **10 TACTICAL DROP SQUAD**  [CBD Series] < active test
 
 
+- **Short Film Orientation**
+
+**Silly version**
+Some commotion on the street.
+"What are they doing?"
+"It's the raw season."
+"Oh yeah."
+Camera unveils a group of people ripping clothes from on themselves.
 
 
