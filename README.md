@@ -55,7 +55,7 @@ x valid sequence?
 
 - Distribution Idea - "Velcro Card" with additional info
 
-x
+x valid sequence?
 
 ![](distribution-idea.png)
 
