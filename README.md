@@ -51,7 +51,7 @@ x valid sequence?
    
 - basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
-x
+x valid sequence?
 
 - Distribution Idea - "Velcro Card" with additional info
 
