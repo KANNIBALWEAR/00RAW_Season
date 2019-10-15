@@ -24,7 +24,7 @@
 - Distribution Idea - "Velcro Card" with additional info
 ![](distribution-idea.png)
 
-## Patch Series [ZEROSUM ELEMENTS]
+## [ZEROSUM ELEMENTS] Patch Series 
 
 **First Test Set** (Design Required)
 - [ ] **01 HITECH CRIME RAW00_BW-HC**
