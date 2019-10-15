@@ -28,11 +28,13 @@ x valid sequence?
 
 x valid sequence?
 
-- Velcro Chest Patch (Military Style) - swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
+### Velcro Chest Patch (Military Style)
+
+swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 x valid sequence?
 
-- Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
+### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
 x valid sequence?
 
