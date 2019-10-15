@@ -31,6 +31,7 @@
    ```
    
 - basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
+
 - Distribution Idea - "Velcro Card" with additional info
 ![](distribution-idea.png)
 
