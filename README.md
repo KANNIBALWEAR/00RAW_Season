@@ -24,6 +24,7 @@
 - Stencils?
 
 - **Rubber Velcro Patches!** want at least one to just try how it feels. if not full rubber then consider glued rubber cutouts.
+
 - Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
   ```
   Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
