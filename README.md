@@ -62,7 +62,7 @@ x valid sequence?
 
 x valid sequence?
 
-- Distribution Idea - "Velcro Card" with additional info
+### Distribution Idea - "Velcro Card" with additional info
 
 x valid sequence?
 
