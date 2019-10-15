@@ -44,7 +44,7 @@ add as a product: 9012-HUG tagname: Hugger / The sweetest of our products in ter
 
 x valid sequence?
 
-- Stencils?
+### Stencils?
 
 x valid sequence?
 
