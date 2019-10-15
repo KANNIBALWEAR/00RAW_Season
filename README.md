@@ -21,7 +21,7 @@ x valid sequence?
 
 - DIY Platform for people to make their own designs.
 
-x
+x valid sequence?
 
 - Velcro Chest Patch (Military Style) - swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
