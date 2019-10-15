@@ -7,7 +7,6 @@
 "KANNIBAL_RAW_SEASON"
 
 
-
 **Projects to consider for starters:**
 - Kannibal flagship stealth patch with RFID
 - Hitech Crime patch minimal b&w
