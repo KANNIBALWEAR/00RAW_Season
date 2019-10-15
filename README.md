@@ -20,7 +20,7 @@ x valid sequence?
 
 x valid sequence?
 
-- Autonomous LED light patches (babel_infocalypse)
+### Autonomous LED light patches (babel_infocalypse)
 
 x valid sequence?
 
