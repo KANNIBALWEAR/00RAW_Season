@@ -130,11 +130,13 @@ x
 
 ## Shortform
 
+x
+
 ## Shortform
 
 RAW KANNIBAL EXPERIENCE
 
-**Silly version**
+**Silly version** (classic attention shift)
 Some commotion on the street.
 "What are they doing?"
 "It's the raw season."
