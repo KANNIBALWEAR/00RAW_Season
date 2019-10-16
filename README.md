@@ -24,9 +24,13 @@ x valid sequence?
 
 x valid sequence?
 
+---
+
 ### Autonomous LED light patches (babel_infocalypse)
 
 x valid sequence?
+
+---
 
 ### DIY Platform for people to make their own designs.
 
