@@ -8,37 +8,37 @@
 
 ## Projects to consider for starters:**
 
-### ZEROSUM ELEMENTS
+### ZEROSUM ELEMENTS [Patch Series]
 
-x Patch Series 
+x  
 
-### Kannibal flagship stealth patch with RFID
-
-x valid sequence?
-
-### Hitech Crime patch minimal b&w
+#### Kannibal flagship stealth patch with RFID
 
 x valid sequence?
 
-### Autonomous LED light patches (babel_infocalypse)
+#### Hitech Crime patch minimal b&w
 
 x valid sequence?
 
-### DIY Platform for people to make their own designs.
+#### Autonomous LED light patches (babel_infocalypse)
 
 x valid sequence?
 
-### Velcro Chest Patch (Military Style)
+#### DIY Platform for people to make their own designs.
+
+x valid sequence?
+
+#### Velcro Chest Patch (Military Style)
 
 swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 x valid sequence?
 
-### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
+#### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
 x valid sequence?
 
-### 9012-HUG tagname: Hugger
+#### 9012-HUG tagname: Hugger
 
 add as a product: 9012-HUG tagname: Hugger / The sweetest of our products in terms of pure intentions factor. Slide-on Patch Platform to tuck in whereever you need them (Elastic Platform with Velcro connection on it, synthetically spring-loaded)
 
