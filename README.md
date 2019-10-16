@@ -36,7 +36,9 @@ Amount of Variations:
 
 ### Autonomous LED light patches (babel_infocalypse)
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
