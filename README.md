@@ -20,7 +20,9 @@ Amount of Variations: 4?
 
 ### Kannibal flagship stealth patch with RFID
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
