@@ -12,19 +12,23 @@
 
 x  
 
-#### Kannibal flagship stealth patch with RFID
+---
+
+### Kannibal flagship stealth patch with RFID
 
 x valid sequence?
 
-#### Hitech Crime patch minimal b&w
+---
+
+### Hitech Crime patch minimal b&w
 
 x valid sequence?
 
-#### Autonomous LED light patches (babel_infocalypse)
+### Autonomous LED light patches (babel_infocalypse)
 
 x valid sequence?
 
-#### DIY Platform for people to make their own designs.
+### DIY Platform for people to make their own designs.
 
 x valid sequence?
 
