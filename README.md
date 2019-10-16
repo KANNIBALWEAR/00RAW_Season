@@ -98,7 +98,9 @@ Amount of Variations:
    
 ### basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ### Distribution Idea - "Velcro Card" with additional info
 
