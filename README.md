@@ -78,7 +78,9 @@ Amount of Variations:
 
 ### Stencils?
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ### **Rubber Velcro Patches!** want at least one to just try how it feels. if not full rubber then consider glued rubber cutouts.
 
