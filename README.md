@@ -54,7 +54,9 @@ Amount of Variations:
 
 swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
