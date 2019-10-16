@@ -104,7 +104,9 @@ Amount of Variations:
 
 ### Distribution Idea - "Velcro Card" with additional info
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ![](distribution-idea.png)
 
