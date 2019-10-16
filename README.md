@@ -44,7 +44,9 @@ Amount of Variations:
 
 ### DIY Platform for people to make their own designs.
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
