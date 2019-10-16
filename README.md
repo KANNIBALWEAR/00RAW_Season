@@ -28,7 +28,9 @@ Amount of Variations:
 
 ### Hitech Crime patch minimal b&w
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
