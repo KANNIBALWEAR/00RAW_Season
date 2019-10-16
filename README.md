@@ -50,7 +50,7 @@ Amount of Variations:
 
 ---
 
-#### Velcro Chest Patch (Military Style)
+### Velcro Chest Patch (Military Style)
 
 swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
@@ -60,13 +60,15 @@ Amount of Variations:
 
 ---
 
-#### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
+### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
-x valid sequence?
+Product Description:
+Series Tag:
+Amount of Variations:
 
 ---
 
-#### 9012-HUG tagname: Hugger
+### 9012-HUG tagname: Hugger
 
 add as a product: 9012-HUG tagname: Hugger / The sweetest of our products in terms of pure intentions factor. Slide-on Patch Platform to tuck in whereever you need them (Elastic Platform with Velcro connection on it, synthetically spring-loaded)
 
