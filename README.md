@@ -8,6 +8,8 @@
 
 ## Projects to consider for starters:**
 
+---
+
 ### ZEROSUM ELEMENTS [Patch Series]
 
 x  
@@ -49,6 +51,8 @@ x valid sequence?
 #### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
 x valid sequence?
+
+---
 
 #### 9012-HUG tagname: Hugger
 
