@@ -12,7 +12,9 @@
 
 ### ZEROSUM ELEMENTS [Patch Series]
 
-x  
+Product Description:
+Series Tag:
+Amount of Variations: 4?
 
 ---
 
