@@ -14,7 +14,12 @@
 
 Product Description:
 Series Tag:
-Amount of Variations: 4?
+Amount of Variations: 4
+
+- basic slim hc
+- square hc
+- kannibal cutout slim
+- kannibal slim
 
 ---
 
