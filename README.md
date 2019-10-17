@@ -12,6 +12,8 @@
 
 ### ZEROSUM ELEMENTS [Patch Series]
 
+Inspired: https://aokuware.com/products/161900
+
 Product Description:
 Series Tag:
 Amount of Variations: 4
