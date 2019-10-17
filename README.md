@@ -207,13 +207,13 @@ Amount of Variations:
 
 (Presentation of the products. showreel. 50min. kannibal orientation program)
 
-## Shortform
+## Shortform (6min)
 
-x
+create a cut out videos (segments, 6min per product).
 
-## Shortform
+## Shortform (6min)
 
-x
+create a cut out videos (segments, 6min per product).
 
 RAW KANNIBAL EXPERIENCE
 
