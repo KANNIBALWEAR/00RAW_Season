@@ -10,7 +10,7 @@
 - create a cut out videos (segments, 6min per product).
 - create quick short snippets for socials (15sec, 60 sec)
 
-## Projects to consider for starters:**
+## Projects to consider for starters:
 
 ---
 
