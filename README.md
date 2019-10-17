@@ -23,6 +23,8 @@ Amount of Variations: 4
 - kannibal cutout slim
 - kannibal slim
 
+Aoku - description - reasearch the rest of the brands for lingo motifs. Or create your own lingo - preferred option to go with.
+
 ```
 2019 PATCH CUSTOMIZATION UNITS
 [80x25mm VELCRO PATCH]
