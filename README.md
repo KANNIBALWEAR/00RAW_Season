@@ -203,6 +203,15 @@ Amount of Variations:
 
 # **Short Film Orientation**
 
+# RAW KANNIBAL EXPERIENCE
+
+**Silly version** (classic attention shift)
+Some commotion on the street.
+"What are they doing?"
+"It's the raw season."
+"Oh yeah."
+Camera unveils a group of people ripping clothes from on themselves.
+
 ## Video Longform
 
 - presentation of the products. showreel. 50min. kannibal orientation program)
@@ -218,14 +227,5 @@ Amount of Variations:
 ## Microform (15sec/60sec)
 
 - create quick short snippets for socials (15sec, 60 sec)
-
-RAW KANNIBAL EXPERIENCE
-
-**Silly version** (classic attention shift)
-Some commotion on the street.
-"What are they doing?"
-"It's the raw season."
-"Oh yeah."
-Camera unveils a group of people ripping clothes from on themselves.
 
 
