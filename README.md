@@ -205,7 +205,7 @@ Amount of Variations:
 
 ## Video Longform
 
-x
+(Presentation of the products. showreel. 50min. kannibal orientation program)
 
 ## Shortform
 
