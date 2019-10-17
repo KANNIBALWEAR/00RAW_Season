@@ -5,6 +5,9 @@
 **/// (1st Season) Time Destination: 2020**
 
 "KANNIBAL_RAW_SEASON"
+- create a banner for Raw Season
+- create a main music video (Presentation of the products. showreel. 50min. kannibal orientation program)
+- 
 
 ## Projects to consider for starters:**
 
