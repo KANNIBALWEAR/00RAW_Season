@@ -7,7 +7,7 @@
 "KANNIBAL_RAW_SEASON"
 - create a banner for Raw Season
 - create a main music video (Presentation of the products. showreel. 50min. kannibal orientation program)
-- 
+- create a cut out videos (segments, 6min per product).
 
 ## Projects to consider for starters:**
 
