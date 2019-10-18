@@ -186,7 +186,6 @@ Amount of Variations:
 
 - [ ] **10 TACTICAL DROP SQUAD**  [CBD Series] < active test
 
-
 # **Short Film Orientation**
 
 # RAW KANNIBAL EXPERIENCE
