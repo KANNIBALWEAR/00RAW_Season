@@ -52,7 +52,6 @@ SELF-ADHESIVE VELCRO® BRAND FLEECE TAPE (P14 GLUE)
 ```
 
 ---
-
 ### Kannibal flagship stealth patch with RFID
 
 Product Description:
@@ -60,33 +59,25 @@ Series Tag:
 Amount of Variations:
 
 ---
-
 ### Hitech Crime patch minimal b&w
-
 Product Description:
 Series Tag:
 Amount of Variations:
 
 ---
-
 ### Autonomous LED light patches (babel_infocalypse)
-
 Product Description:
 Series Tag:
 Amount of Variations:
 
 ---
-
 ### DIY Platform for people to make their own designs.
-
 Product Description:
 Series Tag:
 Amount of Variations:
 
 ---
-
 ### Velcro Chest Patch (Military Style)
-
 swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 Product Description:
@@ -99,10 +90,9 @@ Amount of Variations:
 Product Description:
 Series Tag:
 Amount of Variations:
+
 ---
-
 ### 9012-HUG tagname: Hugger
-
 add as a product: 9012-HUG tagname: Hugger / The sweetest of our products in terms of pure intentions factor. Slide-on Patch Platform to tuck in whereever you need them (Elastic Platform with Velcro connection on it, synthetically spring-loaded)
 
 Product Description:
