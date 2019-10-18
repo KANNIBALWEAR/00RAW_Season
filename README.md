@@ -1,4 +1,4 @@
-[Season Cover]
+[Season Cover] [Cinematic Format] [Lgoo] [Scene Details]
 
 # RAW - KANNIBAL SEASON [00RAW]
 
