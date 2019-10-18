@@ -94,13 +94,11 @@ Series Tag:
 Amount of Variations:
 
 ---
-
 ### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
 Product Description:
 Series Tag:
 Amount of Variations:
-
 ---
 
 ### 9012-HUG tagname: Hugger
