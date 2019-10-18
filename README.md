@@ -12,8 +12,6 @@
 
 ## Projects to consider for starters:
 
----
-
 ### ZEROSUM ELEMENTS [Patch Series]
 
 Inspired: https://aokuware.com/products/161900
