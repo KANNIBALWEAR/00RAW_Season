@@ -203,15 +203,12 @@ Main video.
 - presentation of the products. showreel. 50min. kannibal orientation program)
 
 ## Shortform (6min)
-
 - create a cut out videos (segments, 6min per product).
 
 ## Shortform (6min)
-
 - create a cut out videos (segments, 6min per product). 
 
 ## Microform (15sec/60sec)
-
 - create quick short snippets for socials (15sec, 60 sec)
 
 
