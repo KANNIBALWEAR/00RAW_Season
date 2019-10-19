@@ -7,7 +7,7 @@
 "KANNIBAL_RAW_SEASON"
 - create a banner for Raw Season (t1)
 - create a main video (Presentation of the products. showreel. 50min. kannibal orientation program) (t2)
-- create a cut out videos (segments, 6min per product).
+- create a cut out videos (segments, 6min per product). (t3)
 - create quick short snippets for socials (15sec, 60 sec)
 
 ## Projects to consider for starters:
