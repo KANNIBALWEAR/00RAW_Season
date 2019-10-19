@@ -5,7 +5,7 @@
 **/// (1st Season) Time Destination: 2020**
 
 "KANNIBAL_RAW_SEASON"
-- create a banner for Raw Season
+- create a banner for Raw Season (t1)
 - create a main video (Presentation of the products. showreel. 50min. kannibal orientation program)
 - create a cut out videos (segments, 6min per product).
 - create quick short snippets for socials (15sec, 60 sec)
