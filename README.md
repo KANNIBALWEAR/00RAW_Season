@@ -28,8 +28,8 @@ Amount of Variations: 4
 Aoku - description - reasearch the rest of the brands for lingo motifs. Or create your own lingo - preferred option to go with.
 
 ```
-2019 PATCH CUSTOMIZATION UNITS
-[80x25mm VELCRO PATCH]
+2019 PATCH SERIES [ZEROSUM ELEMENTS]
+[76x25mm VELCRO SYS]
 EACH DESIGN PRODUCED IN EDITION OF 100 TOTAL (not 02/04). RELEASED IN TWO BATCHES AVAILABLE ONLY TILL 23-12-2018/23:59CET. WILL NOT BE REPRODUCED. EVERY PATCH ORDER COMES WITH ∆OKU STICKER SHEET. PATCHES COME WITH SELF-ADHESIVE(P14) FLEECE COUNTERPART [you can create your own patch array/customize gear/securing loop part with few stitches recommended].
 
 161901/03/05/06/07/08 CONSTRUCTION:
