@@ -1,4 +1,4 @@
-[Season Cover] [Cinematic Format] [Lgoo] [Scene Details]
+[Season Cover] [Cinematic Format] [Kannibal Logo] [Scene Details] [Black & White theme?]
 
 # RAW - KANNIBAL SEASON [00RAW]
 
