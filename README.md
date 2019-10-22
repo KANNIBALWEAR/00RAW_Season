@@ -14,6 +14,8 @@
 
 ### ZEROSUM ELEMENTS [Patch Series]
 
+- waiting for the test batch approval
+
 Inspired: https://aokuware.com/products/161900
 
 Product Description:
