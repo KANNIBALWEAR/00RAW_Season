@@ -217,4 +217,4 @@ Main video.
 
 - quickly slashing the materials (hyperlapse)
 - abstract splashes of material similar to blood
-- 
+- throwing paint mixed with bits and pieces of clothing (picasso reference) - antichrist vibe of titles
