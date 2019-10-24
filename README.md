@@ -227,6 +227,7 @@ Main video.
 
 - quickly slashing the materials (hyperlapse)
 
+## PAINTING IDEAS SHORT 03 /// 30 sec
 
 - abstract splashes of material similar to blood
 
