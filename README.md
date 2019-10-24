@@ -219,15 +219,14 @@ Main video.
 
 - workshop vibe, directions, orientation, glitchy, showcasing cannibalizing other accessories
 
-## PAINTING IDEAS SHORT 01 /// 15 sec
+## PAINTING IDEAS SHORT 01 --- FRAMECUT /// 15 sec
 
 - throwing paint mixed with bits and pieces of clothing (picasso reference) - antichrist vibe of titles
 
-## PAINTING IDEAS SHORT 02 /// 15 sec
+## PAINTING IDEAS SHORT 02 --- SELFMADE /// 15 sec
 
 - quickly slashing the materials (hyperlapse)
 
-## PAINTING IDEAS SHORT 03 /// 15 sec
+## PAINTING IDEAS SHORT 03 --- /// 15 sec
 
 - abstract splashes of material similar to blood
-
