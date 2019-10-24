@@ -215,6 +215,18 @@ Main video.
 
 ## Flash Dopamine Triggers (30sec)
 
-- quickly slashing the materials (hyperlapse)
-- abstract splashes of material similar to blood
+## REALITY OF SHELL MODDING /// 30 sec
+
+- workshop vibe, directions, orientation, glitchy, showcasing cannibalizing other accessories
+
+## PAINTING IDEAS SHORT 01 /// 30 sec
+
 - throwing paint mixed with bits and pieces of clothing (picasso reference) - antichrist vibe of titles
+
+## PAINTING IDEAS SHORT 02 /// 30 sec
+
+- quickly slashing the materials (hyperlapse)
+
+
+- abstract splashes of material similar to blood
+
