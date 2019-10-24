@@ -215,4 +215,6 @@ Main video.
 
 ## Flash Dopamine Triggers (30sec)
 
-
+- quickly slashing the materials (hyperlapse)
+- abstract splashes of material similar to blood
+- 
