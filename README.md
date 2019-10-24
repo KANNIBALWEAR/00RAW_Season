@@ -231,6 +231,8 @@ Main video.
 
 - abstract splashes of material similar to blood
 
+## SHORT NARRATIVES WITH OWN PRODUCT PLACEMENT
+
 REAL ITEMS FOR THE FUTURE
 HERE AND NOW IS RAW
 MODDERS CODEX
