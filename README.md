@@ -229,7 +229,7 @@ Main video.
 
 ## PAINTING IDEAS SHORT 03 --- METAMORPHOSIS /// 15 sec
 
-- abstract splashes of material similar to blood
+> abstract splashes of material similar to blood
 
 ## SHORT NARRATIVES WITH OWN PRODUCT PLACEMENT
 
