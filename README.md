@@ -54,7 +54,7 @@ HOOK BACKING
 SELF-ADHESIVE VELCRO® BRAND FLEECE TAPE (P14 GLUE)
 ```
 ---
-### Kannibal flagship stealth patch with RFID
+### > Kannibal flagship stealth patch with RFID
 
 Product Description:
 Series Tag:
