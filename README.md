@@ -1,6 +1,6 @@
 [Season Cover] [Cinematic Format] [Kannibal Logo] [Scene Details] [Black & White theme?]
 
-# RAW - KANNIBAL SEASON [00RAW]
+# [00RAW] RAW - KANNIBAL SEASON
 
 **/// (1st Season) Time Destination: 2020**
 
