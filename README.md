@@ -14,7 +14,7 @@
 
 ### ZEROSUM ELEMENTS [Patch Series]
 
-- waiting for the test batch approval
+- waiting for the test batch approval (still no response, try different approach)
 
 Inspired: https://aokuware.com/products/161900
 
