@@ -73,7 +73,7 @@ Series Tag:
 Amount of Variations:
 
 ---
-### DIY Platform for people to make their own designs.
+### > DIY Platform for people to make their own designs.
 Product Description:
 Series Tag:
 Amount of Variations:
