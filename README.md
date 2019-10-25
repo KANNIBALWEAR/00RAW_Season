@@ -87,7 +87,7 @@ Series Tag:
 Amount of Variations:
 
 ---
-### Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
+### > Velcro Underchin Jacket Patch platform (nod towards Acrnm style)
 
 Product Description:
 Series Tag:
