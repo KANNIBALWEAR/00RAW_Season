@@ -225,7 +225,7 @@ Main video.
 
 ## PAINTING IDEAS SHORT 02 --- SELFMADE /// 15 sec
 
-- quickly slashing the materials (hyperlapse)
+> quickly slashing the materials (hyperlapse)
 
 ## PAINTING IDEAS SHORT 03 --- METAMORPHOSIS /// 15 sec
 
