@@ -113,7 +113,7 @@ Product Description:
 Series Tag:
 Amount of Variations:
 
-### Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
+### > Initiation / Show How To Make Your Own Things / Cannibalize Wear and Tech: 
   ```
   Evo Attachment Extension - conversion kit to "kannibalize" other bags and items so they can be used as modular.
    ```
