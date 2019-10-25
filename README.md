@@ -101,7 +101,7 @@ Product Description:
 Series Tag:
 Amount of Variations:
 
-### Stencils?
+### > Stencils?
 
 Product Description:
 Series Tag:
