@@ -67,7 +67,7 @@ Series Tag:
 Amount of Variations:
 
 ---
-### Autonomous LED light patches (babel_infocalypse)
+### > Autonomous LED light patches (babel_infocalypse)
 Product Description:
 Series Tag:
 Amount of Variations:
