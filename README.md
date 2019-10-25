@@ -127,7 +127,7 @@ Product Description:
 Series Tag:
 Amount of Variations:
 
-### Distribution Idea - "Velcro Card" with additional info
+### > Distribution Idea - "Velcro Card" with additional info
 
 Product Description:
 Series Tag:
