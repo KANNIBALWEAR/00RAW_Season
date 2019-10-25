@@ -61,7 +61,7 @@ Series Tag:
 Amount of Variations:
 
 ---
-### Hitech Crime patch minimal b&w
+### > Hitech Crime patch minimal b&w
 Product Description:
 Series Tag:
 Amount of Variations:
