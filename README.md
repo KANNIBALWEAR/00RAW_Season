@@ -79,7 +79,7 @@ Series Tag:
 Amount of Variations:
 
 ---
-### Velcro Chest Patch (Military Style)
+### > Velcro Chest Patch (Military Style)
 swap depending on the project you're working on (Helve, Kannibal, Hitech Crime)
 
 Product Description:
