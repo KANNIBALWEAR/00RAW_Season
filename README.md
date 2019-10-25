@@ -121,7 +121,7 @@ Product Description:
 Series Tag:
 Amount of Variations:
    
-### basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
+### > basic testing products, fairly simple to make, wide variety of design to test (minimal, stealth but raw)
 
 Product Description:
 Series Tag:
