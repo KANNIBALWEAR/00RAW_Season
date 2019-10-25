@@ -221,7 +221,7 @@ Main video.
 
 ## PAINTING IDEAS SHORT 01 --- FRAMECUT /// 15 sec
 
-- throwing paint mixed with bits and pieces of clothing (picasso reference) - antichrist vibe of titles
+> throwing paint mixed with bits and pieces of clothing (picasso reference) - antichrist vibe of titles
 
 ## PAINTING IDEAS SHORT 02 --- SELFMADE /// 15 sec
 
