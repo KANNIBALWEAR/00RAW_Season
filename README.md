@@ -217,7 +217,7 @@ Main video.
 
 ## REALITY OF SHELL MODDING /// 30 sec
 
-- workshop vibe, directions, orientation, glitchy, showcasing cannibalizing other accessories
+> workshop vibe, directions, orientation, glitchy, showcasing cannibalizing other accessories
 
 ## PAINTING IDEAS SHORT 01 --- FRAMECUT /// 15 sec
 
